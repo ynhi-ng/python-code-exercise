@@ -1,0 +1,4 @@
+0 forward,clean,turn-right,turn-right,turn-right
+1 forward,clean,turn-right,turn-right,turn-right,turn-right,forward
+1 forward,forward,clean,turn-left,forward
+0 turn-right,forward,forward,forward,clean,turn-left,forward
